@@ -1,6 +1,6 @@
 
 
-<img align="right" width="100%" height="300px" src="https://miro.medium.com/max/1838/0*FGD6BUzzZs1VJLuY.gif" alt="Coding"> 
+<img align="center" width="100%" height="300px" style="border-radius: 12px" src="https://miro.medium.com/max/1838/0*FGD6BUzzZs1VJLuY.gif" alt="Coding"> 
 <h6 width="100%" >-</h5>
 
 <h1 align="center">Hi 👋, I'm Akram</h1>
