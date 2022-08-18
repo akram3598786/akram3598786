@@ -1,9 +1,11 @@
 
-[![MasterHead](https://miro.medium.com/max/1838/0*FGD6BUzzZs1VJLuY.gif)]
+
+<img align="right" width="100%" height="400px" src="https://miro.medium.com/max/1838/0*FGD6BUzzZs1VJLuY.gif" alt="Coding"> 
+<h6 width="100%" >-</h5>
 
 <h1 align="center">Hi 👋, I'm Akram</h1>
 <h3 align="center">A aspiring full stack web developer from India</h3>
- <img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="">
+ <img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding">
 
 <p align="left"> <a href="https://twitter.com/akram3598" target="blank"><img src="https://img.shields.io/twitter/follow/akram3598?logo=twitter&style=for-the-badge" alt="akram3598" /></a> </p>
 
