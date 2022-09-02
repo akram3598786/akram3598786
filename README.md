@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack at MASAI School**
 
-- 👨‍💻 All of my projects are available at [https://akram3598786.github.io/Akky-Portfolio/#intro](https://akram3598786.github.io/Akky-Portfolio/#intro)
+- 👨‍💻 All of my projects are available at { https://akram-portfolio-v2.netlify.app/ }
 
 - 💬 Ask me about **React.Js, JavaScript, HTML, CSS, C Language, DSA**
 
