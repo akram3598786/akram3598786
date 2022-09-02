@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack at MASAI School**
 
-- 👨‍💻 All of my projects are available at { <a target = "_blank" href="https://akram-portfolio-v2.netlify.app/"> My Portfolio </a> }
+- 👨‍💻 All of my projects are available at { <a target="_blank" href="https://akram-portfolio-v2.netlify.app/"> My Portfolio </a> }
 
 - 💬 Ask me about **React.Js, JavaScript, HTML, CSS, C Language, DSA**
 
