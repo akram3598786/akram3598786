@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React.Js, JavaScript, HTML, CSS, C Language, DSA**
 
-- 📫 How to reach me **developerakky2407@gmail.com**
+- 📫 How to reach me **itsakram3598@gmail.com**
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
