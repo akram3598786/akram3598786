@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React.Js, JavaScript, HTML, CSS, C Language, DSA**
 - 🔥 I use to write code on { <a target="_blank" href="https://leetcode.com/coder_akram/"> Leetcode </a> }
-- ⚡ I’m looking to collaborate on: Contribute more to Open Source projects.
+- ⚡ I always ready for : contribute more to Open Source projects.
 
 - 📫 How to reach me **itsakram3598@gmail.com**
 
