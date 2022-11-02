@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at { <a target="_blank" href="https://akram-portfolio-v2.netlify.app/"> My Portfolio </a> }
 
-- 💬 Ask me about **React.Js, JavaScript, HTML, CSS, C Language, DSA**
+- 💬 Ask me about **JavaScript, HTML, CSS, MERN Stack and DSA**
 - 🔥 I use to write code on { <a target="_blank" href="https://leetcode.com/coder_akram/"> Leetcode </a> }
 - ⚡ I always ready for : contribute more to Open Source projects.
 
