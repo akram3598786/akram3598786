@@ -9,11 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/akram3598" target="blank"><img src="https://img.shields.io/twitter/follow/akram3598?logo=twitter&style=for-the-badge" alt="akram3598" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack at MASAI School**
+- 🌱 I have recently (October-2022) completed **MERN Stack at MASAI School**
 
 - 👨‍💻 All of my projects are available at { <a target="_blank" href="https://akram-portfolio-v2.netlify.app/"> My Portfolio </a> }
 
 - 💬 Ask me about **React.Js, JavaScript, HTML, CSS, C Language, DSA**
+- 🔥 I use to write code on { <a target="_blank" href="https://leetcode.com/coder_akram/"> Leetcode </a> }
+- ⚡ I’m looking to collaborate on: Contribute more to Open Source projects.
 
 - 📫 How to reach me **itsakram3598@gmail.com**
 
