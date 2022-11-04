@@ -57,5 +57,4 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{akram3598786}/count.svg" alt="Akram :: Visitor's Count" /></p>
 
 <hr>
-
  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
