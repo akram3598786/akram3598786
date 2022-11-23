@@ -4,7 +4,7 @@
 <h6 width="100%" >-</h5>
 
 <h1 align="center">Hi 👋, I'm Akram</h1>
-<h3 align="center">A aspiring full stack web developer from India</h3>
+<h3 align="center">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h3>
  <img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding">
 
 <p align="left"> <a href="https://twitter.com/akram3598" target="blank"><img src="https://img.shields.io/twitter/follow/akram3598?logo=twitter&style=for-the-badge" alt="akram3598" /></a> </p>
