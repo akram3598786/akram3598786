@@ -21,9 +21,10 @@
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
-<a href="https://linkedin.com/in/akram-ali-b0940216a" title="Linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akram-ali-b0940216a" height="30" width="40" /></a>
-<a href="https://twitter.com/akram3598" title="Twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="akram3598" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:16142621" title="StackOverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16142621" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akram-ali-b0940216a" title="Linkedin" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akram-ali-b0940216a" height="30" width="40" /></a>
+<a href="https://twitter.com/akram3598" title="Twitter" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="akram3598" height="30" width="40" /></a>
+<a title="itsakram3598@gmail.com" href="mailto:itsakram3598@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+ <a href="https://wa.me/8571997045" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
 <a href="https://www.leetcode.com/coder_akram" title="LeetCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coder_akram" height="30" width="40" /></a>
 </p>
 
